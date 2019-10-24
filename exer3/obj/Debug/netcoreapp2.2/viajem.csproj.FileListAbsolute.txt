@@ -1,0 +1,22 @@
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Exercicio\viajem\bin\Debug\netcoreapp2.2\viajem.deps.json
+C:\Users\49541849830\Documents\Exercicio\viajem\bin\Debug\netcoreapp2.2\viajem.runtimeconfig.json
+C:\Users\49541849830\Documents\Exercicio\viajem\bin\Debug\netcoreapp2.2\viajem.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Exercicio\viajem\bin\Debug\netcoreapp2.2\viajem.dll
+C:\Users\49541849830\Documents\Exercicio\viajem\bin\Debug\netcoreapp2.2\viajem.pdb
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.dll
+C:\Users\49541849830\Documents\Exercicio\viajem\obj\Debug\netcoreapp2.2\viajem.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\bin\Debug\netcoreapp2.2\viajem.deps.json
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\bin\Debug\netcoreapp2.2\viajem.runtimeconfig.json
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\bin\Debug\netcoreapp2.2\viajem.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\bin\Debug\netcoreapp2.2\viajem.dll
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\bin\Debug\netcoreapp2.2\viajem.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.dll
+C:\Users\49541849830\Documents\Desafios de Programação\viajem\obj\Debug\netcoreapp2.2\viajem.pdb

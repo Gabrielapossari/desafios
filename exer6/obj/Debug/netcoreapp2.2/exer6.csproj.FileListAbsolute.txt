@@ -1,0 +1,11 @@
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\bin\Debug\netcoreapp2.2\exer6.deps.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\bin\Debug\netcoreapp2.2\exer6.runtimeconfig.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\bin\Debug\netcoreapp2.2\exer6.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\bin\Debug\netcoreapp2.2\exer6.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\bin\Debug\netcoreapp2.2\exer6.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer6\obj\Debug\netcoreapp2.2\exer6.pdb
