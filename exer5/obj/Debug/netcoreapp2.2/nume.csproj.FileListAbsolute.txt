@@ -9,3 +9,14 @@ C:\Users\49541849830\Documents\Desafios de Programação\nume\bin\Debug\netcorea
 C:\Users\49541849830\Documents\Desafios de Programação\nume\bin\Debug\netcoreapp2.2\nume.pdb
 C:\Users\49541849830\Documents\Desafios de Programação\nume\obj\Debug\netcoreapp2.2\nume.dll
 C:\Users\49541849830\Documents\Desafios de Programação\nume\obj\Debug\netcoreapp2.2\nume.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\bin\Debug\netcoreapp2.2\nume.deps.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\bin\Debug\netcoreapp2.2\nume.runtimeconfig.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\bin\Debug\netcoreapp2.2\nume.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\bin\Debug\netcoreapp2.2\nume.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\bin\Debug\netcoreapp2.2\nume.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer5\obj\Debug\netcoreapp2.2\nume.pdb

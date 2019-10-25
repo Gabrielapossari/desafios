@@ -1,19 +1,19 @@
-﻿using System;
-
+﻿
+using System;
 namespace exer8
 {
-    class Program
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            double altura;
-            Console.WriteLine("Qual é a altura do triângulo?");
-            altura = double.Parse(Console.ReadLine());
-            
-            for(int i = 0;i<altura;i++){
-                System.Console.WriteLine("*");
+        System.Console.WriteLine("Digite a altura do triangulo: ");
+        double Altura = Double.Parse(Console.ReadLine());
+        for(int j = 0; j < Altura; j++){
+            for(int i = 0; i < Altura-j; i++){
+                System.Console.Write("*");
             }
-            
+            System.Console.WriteLine();
         }
     }
+}
 }

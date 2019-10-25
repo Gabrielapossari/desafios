@@ -8,6 +8,7 @@ namespace nume
         {
             double num1;
             double num2;
+            double numero;
 
 
             Console.WriteLine("Digite um primeiro número:");
@@ -16,9 +17,13 @@ namespace nume
             System.Console.WriteLine("Digite um segundo número:");
             num2 = double.Parse(Console.ReadLine());
 
-            System.Console.WriteLine($"O primeiro número agora é  {num2}");
-            
-            System.Console.WriteLine($"O segundo número agora é  {num1}");
+            numero = num1;
+            num1 = num2;
+            num2 = numero;
+
+            System.Console.WriteLine($"O primeiro número é {num1}");
+            System.Console.WriteLine($"O segundo número é {num2}");
+
         }
     }
 }
