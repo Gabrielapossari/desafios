@@ -1,0 +1,11 @@
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\bin\Debug\netcoreapp2.2\exer18.deps.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\bin\Debug\netcoreapp2.2\exer18.runtimeconfig.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\bin\Debug\netcoreapp2.2\exer18.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\bin\Debug\netcoreapp2.2\exer18.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\bin\Debug\netcoreapp2.2\exer18.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exer18\obj\Debug\netcoreapp2.2\exer18.pdb
