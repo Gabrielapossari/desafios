@@ -8,19 +8,20 @@ namespace exer14
         {
             string verbo;
             string sufixo;
-            string verb;
+
             Console.WriteLine("Escreve um verbo:");
             verbo = (Console.ReadLine());
 
             sufixo = verbo.Substring(verbo.Length-2,2);
-            verb = verbo.Substring(verbo.Length-1,1);
-
-            verbo=sufixo.Replace((sufixo), "ar");
-
-            if (verb == "r"){
-                System.Console.WriteLine("Você tem um verbo!");
-            }else{
-                System.Console.WriteLine("Você não tem um verbo!");
+            
+            if (sufixo.EndsWith("ar")) {
+                System.Console.WriteLine("Você tem um verbo na primeira conjugação!");
+            }else if (sufixo.EndsWith("er")){
+                System.Console.WriteLine("Você tem um verbo na segunda conjugação!");
+            }else if (sufixo.EndsWith("ir")){
+                System.Console.WriteLine("Você tem um verbo na terceira conjugação!");
+            }else {
+                    System.Console.WriteLine("O verbo não está no infinitivo.");
             }
         }
     }

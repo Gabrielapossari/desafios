@@ -6,6 +6,8 @@ namespace exer20
     {
         static void Main(string[] args)
         {
+            string num;
+            
             int [] vetor = new int[10]; 
             for(int x = 0; x < 10; x++ ){
                 Random randNum = new Random();

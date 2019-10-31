@@ -13,7 +13,10 @@ namespace exer11
             System.Console.WriteLine("Digite o segundo nome:");
             nam2 = double.Parse(Console.ReadLine());
 
-            
+            List <string> Nomes = new List<string>();
+            Nomes.Add(nam1);
+            Nomes.Add(nam2);
+
             
         }
     }
