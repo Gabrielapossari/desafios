@@ -1,0 +1,11 @@
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.csprojAssemblyReference.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.csproj.CoreCompileInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.AssemblyInfoInputs.cache
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.AssemblyInfo.cs
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\bin\Debug\netcoreapp2.2\exerzoo.deps.json
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\bin\Debug\netcoreapp2.2\exerzoo.runtimeconfig.json
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\bin\Debug\netcoreapp2.2\exerzoo.runtimeconfig.dev.json
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\bin\Debug\netcoreapp2.2\exerzoo.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\bin\Debug\netcoreapp2.2\exerzoo.pdb
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.dll
+C:\Users\49541849830\Documents\Desafios de Programação\exerzoo\obj\Debug\netcoreapp2.2\exerzoo.pdb
